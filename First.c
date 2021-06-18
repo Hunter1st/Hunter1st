@@ -1,0 +1,5 @@
+#include <stdio.h>
+Int main (){
+Printf("hello world");
+Return 0;
+}
